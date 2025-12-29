@@ -143,3 +143,6 @@ Send data to PHP using POST or GET methods
 This project demonstrates how PHP interacts with MySQL to build a dynamic web application.
 Using XAMPP, the system performs complete CRUD operations with proper database connectivity, form handling, and UI design.
 
+
+
+
